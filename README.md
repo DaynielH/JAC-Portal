@@ -1,2 +1,2 @@
 # JAC-Portal
-Portal de los Jóvenes Ambientalistas Cubanos (JAC) donde se exponen las actividades realizadas por el mismo desde su fundación y los organismos de donde tributan sus afiliados
+Portal of the Young Cuban Environmentalists (YCE, acronym in english) where the activities carried out by the same from its foundation and  the organisms from where its affiliates are from are exposed
